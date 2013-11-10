@@ -1,0 +1,3 @@
+function globalBar() {
+  alert("barring!!");
+}

@@ -1,0 +1,3 @@
+function globalFoo() {
+  alert("foo!");
+}
