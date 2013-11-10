@@ -1,4 +1,2 @@
-usemin_example
-==============
+Simple example of usemin and a couple of standard grunt plugins.
 
-basic usemin example
